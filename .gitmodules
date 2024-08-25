@@ -4,3 +4,9 @@
 [submodule "src/panzer_ogl_lib"]
 	path = src/panzer_ogl_lib
 	url = http://github.com/Panzerschrek/panzer_ogl_lib
+[submodule "external/cgltf"]
+	path = external/cgltf
+	url = https://github.com/jkuhlmann/cgltf
+[submodule "external/physfs"]
+	path = external/physfs
+	url = https://github.com/worduk/physfs
